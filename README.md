@@ -1,5 +1,6 @@
 # cypressQuete03
-##Énoncé :
+
+## Énoncé 
 TasteDive permet de fournir des suggestions pour différents types d'activités culturelles et artistiques. Ce procédé est utilisé par des des plateformes très connues, telles que : Netflix, Canal Plus, Molotov...
 
 ## Installation
