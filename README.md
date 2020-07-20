@@ -1,2 +1,12 @@
 # cypressQuete03
-##TasteDive permet de fournir des suggestions pour différents types d'activités culturelles et artistiques. Ce procédé est utilisé par des des plateformes très connues, telles que : Netflix, Canal Plus, Molotov...
+##Énoncé :
+TasteDive permet de fournir des suggestions pour différents types d'activités culturelles et artistiques. Ce procédé est utilisé par des des plateformes très connues, telles que : Netflix, Canal Plus, Molotov...
+
+## Installation
+Steps to run tests on this repo are :
+
+```
+$ clone the repository
+$ npm install
+$ npm run cy:open
+```
