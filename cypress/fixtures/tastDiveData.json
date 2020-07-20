@@ -1,0 +1,14 @@
+[
+  {
+  "q" : "Coldplay",
+  "type" : "music",
+  "limit" : 5,
+  "info" : 1
+  },
+  {
+    "q" : "Spider-Man",
+    "type" : "movie",
+    "limit" : 3,
+    "info" : 0
+  }
+]
