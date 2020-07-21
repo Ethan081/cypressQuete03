@@ -10,4 +10,5 @@ Steps to run tests on this repo are :
 $ clone the repository
 $ npm install
 $ npm run cy:open
+create .env file for your api key with the content API_KEY=VALUE OF YOUR API KEY
 ```
