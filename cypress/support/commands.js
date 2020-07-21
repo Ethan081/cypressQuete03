@@ -33,7 +33,7 @@ Cypress.Commands.add("product", (q, type, info, limit) => {
             type: type,
             limit: limit,
             info: info,
-            k: '375546-Personne-3HDDMZ4L'
+            k: Cypress.env('API_KEY')
         }
     }).then(response => {
         cy.log(JSON.stringify(response.body))
